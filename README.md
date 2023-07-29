@@ -1,18 +1,8 @@
-### Hi there 👋
-
-<!--
-**Jaseempk/Jaseempk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Solidity & Foundry...
-- 🌱 I’m currently learning Rust, React & Next.js ...
-- 👯 I’m looking to collaborate on Web3 Projects & Startups...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Ethereum & Blockchain...
-- 📫 How to reach me: www.linkedin.com/in/moossa-jaseem-pk-433126216
-                      https://twitter.com/jasimpk99                    
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Hi there 👋, M.Jaseem here
+  
+- 🔭 I’m currently working on **Web2 & Web3**
+- 🌱 I’m currently learning **Rust, React & Next.js**
+- 👯 I’m looking to collaborate on **Web3 Projects & Startups**
+- 🤔 I’m looking forward to building **Innovative Solutions in the tech space by collaborating with a Great Team**
+- 💬 Ask me about **Ethereum, Solana, Blockchain & Startups**
+- 📫 How to reach me: **jasimpk011@gmail.com**
