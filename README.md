@@ -1,6 +1,6 @@
   ### Hi there 👋, M.Jaseem here
   
-- 🔭 I’m currently working on **Web2 & Web3**
+- 🔭 I’m currently working on **Smart Contracts**
 - 🌱 I’m currently learning **Rust,ZK&FHE**
 - 👯 I’m looking to collaborate on **Web3 Projects & Startups**
 - 🤔 I’m looking forward to building **Valuable Solutions in the tech space by collaborating with a Great People**
