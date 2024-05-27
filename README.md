@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Smart Contracts**
 - 🌱 I’m currently learning **Rust,ZK&FHE**
 - 👯 I’m looking to collaborate on **Web3 Projects & Startups**
-- 🤔 I’m looking forward to building **Valuable Solutions in the tech space by collaborating with a Great People**
+- 🤔 I’m looking forward to building **Valuable Solutions in the tech space by collaborating with energetic teams or people with strong conviction**
 - 💬 Ask me about **Ethereum, Solana, Blockchain & Startups**
 - 📫 How to reach me: **jasimpk011@gmail.com**
 
