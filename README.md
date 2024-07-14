@@ -1,8 +1,8 @@
   ### Hi there 👋, M.Jaseem here
   
-- 🔭 I’m currently working on **Smart Contracts**
-- 🌱 I’m currently learning **Rust,ZK&FHE**
-- 👯 I’m looking to collaborate on **Web3 Projects & Startups**
+- 🔭 Interested in distributed systems and write **Smart Contracts**
+- 🌱 Currently falling through **Rust,ZK&FHE** rabbit-hole
+- 👯 Happy to contribute to cool **Dapps & Infra Projects**
 - 🤔 I’m looking forward to building **Valuable Solutions in the tech space by collaborating with energetic teams or people with strong conviction**
 - 💬 Ask me about **Ethereum, Solana, Blockchain & Startups**
 - 📫 How to reach me: **jasimpk011@gmail.com**
