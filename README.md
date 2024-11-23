@@ -2,7 +2,7 @@
   
 - 🔭 Interested in distributed systems and write **Smart Contracts**
 - 🌱 Currently falling through **Rust,ZK&FHE** rabbit-hole
-- 📫 How to reach me: **jasimpk011@gmail.com**
+
 
 
   
