@@ -1,7 +1,7 @@
   ### Yoo, nothing much to see here
 <br/>
 
-- Working on distributed systems and write **Smart Contracts**
+- Building on **blockchains** and write **Smart Contracts**
 - Currently falling through **Rust,ZK&FHE** rabbit-hole
 - Tryna build something that people might end-up using...
 
