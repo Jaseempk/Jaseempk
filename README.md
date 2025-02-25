@@ -2,7 +2,6 @@
 <br/>
 
 - Building on **blockchains** and write **Smart Contracts**
-- Currently falling through **Rust,ZK&FHE** rabbit-hole
 - Tryna build something that people might end-up using...
 
 
